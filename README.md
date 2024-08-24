@@ -3,7 +3,7 @@ The presented dashboard visualize different factors which can influence the  the
 # OBJECTIVE:
 The objective of this dashboard is  visualization of cars average selling price based on different factors which can be useful to price a car accordingly.
 # DATA USED FOR DASHBOARD:
-The Car Sales Dataset contains the following:
+The Car Sales Dataset contains the following:/t
 1.Name
 2.Brand
 3.Selling price
