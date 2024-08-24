@@ -33,6 +33,6 @@ Based on the analysis the diesel cars are more costlier than lpg or petrol cars
 
 
 # Made by:
- KOLLI YESHWANTH VENKAT KUMAR.
- 3rd year B.tech
+ KOLLI YESHWANTH VENKAT KUMAR. \n
+ 3rd year B.tech \n
  Linkedin: https://www.linkedin.com/in/yeshwanth-kolli-4bb5492a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
